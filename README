@@ -1,0 +1,3 @@
+Le but de ce projet  est d'entrainer un agent à jouer au jeu Pong.
+
+Pour cela nous allons utiliser l'algorithme génétique NEAT (NeuroEvolution of Augmenting Topologies).
